@@ -34,7 +34,7 @@ pinned: false
     pip install -r requirements.txt
 
     # Install poppler-utils
-    sudo apt-get install poppler-utils
+    sudo apt-get install poppler-utils libpoppler-cpp-dev
 
 ## Demo
 
