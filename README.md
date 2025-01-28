@@ -45,5 +45,7 @@ This is currently deployed in [HuggingFace Spaces](https://huggingface.co/spaces
 Please use the sample image provided in `images` folder for testing purpose. 
 You might want to modify the OCR parameters for your image to get more accurate later.
 
+You should be able to find the detector-model.pt file here in [google drive](https://drive.google.com/file/d/1S1yo_l-BPpaPc6pWwdqeHI4gA0Xue2wg/view?usp=sharing). If not, please email me.
+
 ## References
 - https://github.com/LynnHaDo/Checkbox-Detection
